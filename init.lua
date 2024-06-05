@@ -30,4 +30,4 @@ minetest.register_craftitem("savemob:saver", {
         print("ENT="..dump(obj:get_luaentity()))
         print("STATIC_SAVE="..dump(obj:get_properties().static_save))
     end
-})--]
+})--]]
